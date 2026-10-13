@@ -1,0 +1,6 @@
+name = "velvetfeed-api"
+main = "src/index.js"
+compatibility_date = "2026-10-12"
+
+[vars]
+FRONTEND_ORIGIN = "https://newnetmp3.github.io"
